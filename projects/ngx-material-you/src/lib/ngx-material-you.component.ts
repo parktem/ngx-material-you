@@ -1,15 +1,9 @@
 import { Component } from '@angular/core';
+import '@material/web/checkbox/checkbox';
 
 @Component({
   selector: 'lib-ngx-material-you',
-  template: `
-    <p>
-      ngx-material-you works!
-    </p>
-  `,
-  styles: [
-  ]
+  template: ` <p>Hello!</p>`,
+  styles: [],
 })
-export class NgxMaterialYouComponent {
-
-}
+export class NgxMaterialYouComponent {}
