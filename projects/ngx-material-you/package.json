@@ -1,0 +1,14 @@
+{
+  "name": "ngx-material-you",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@material/web": "^1.0.0-pre.1"
+  }
+}
